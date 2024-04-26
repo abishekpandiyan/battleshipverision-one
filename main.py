@@ -55,7 +55,7 @@ def RunGame():
   user_guess_board = GameBoard([[" "] * 6 for i in range(6)])
   Battleship.create_ships(computer_board)
  
-  turns = 4
+  turns = 8
   while turns > 0:
     GameBoard.print_board(user_guess_board)
    
