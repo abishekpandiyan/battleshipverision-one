@@ -7,7 +7,7 @@ class GameSettings:
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super(GameSettings, cls).__new__(cls)
-            cls._instance.ships_count = 2
+            cls._instance.ships_count = 10
             cls._instance.board_size = 6
         return cls._instance
 
