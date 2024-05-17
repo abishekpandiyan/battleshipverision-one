@@ -1,4 +1,5 @@
 Introduction
+
 The Battleship game implementation presented here demonstrates the use of object-oriented programming (OOP) principles and design patterns. The four main pillars of OOP—polymorphism, abstraction, inheritance, and encapsulation—are utilized to create a flexible and maintainable codebase. Additionally, two design patterns, Singleton and Factory Method, are incorporated to enhance the design. This summary provides an overview of the code, instructions on how to use it, and an analysis of its functionality.
 
 How to Use the Code
